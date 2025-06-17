@@ -1,4 +1,8 @@
-## Hi there 👋
+![github contribution snake](https://raw.githubusercontent.com/hafizxd/hafizxd/output/github-contribution-grid-snake.svg)
+
+![github contribution snake dark](https://raw.githubusercontent.com/hafizxd/hafizxd/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+
 
 <!--
 **hafizxd/hafizxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
